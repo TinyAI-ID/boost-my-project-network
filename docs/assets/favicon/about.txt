@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Unlock
+- Font Author: Copyright 2011 The Unlock Project Authors (https://github.com/etunni/unlock), with Reserved Font Name 'Unlock'
+- Font Source: http://fonts.gstatic.com/s/unlock/v26/7Au-p_8ykD-cDl7GKAjSwkUVOQ.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
